@@ -1,4 +1,4 @@
-# Hello, I'm NOTO32
+# Hello, I'm NOTO32 This is what i used for reference: https://www.youtube.com/watch?v=p59B-I67yf8&list=PLSEbf5z1Ef8CsQiU4mRGezhLndMwdLqKw&index=3 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
